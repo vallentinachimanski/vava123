@@ -1,12 +1,22 @@
 !DOCTYPE html>
 <html lang="pt-br">
-    <h1>Sobre a Barbearia Alura</h1>
+    <h1>Sobre receita  Alura</h1>
 
-    <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. 
-    Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+    <p>.</p>1 caixa de leite condensado
+Qualy
+1 colher (sopa) de margarina sem sal
+achocolatado
+7 colheres (sopa) de achocolatado ou 4 colheres (sopa) de chocolate em pó
+chocolate granulado
+chocolate granulado
 
-    <p><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+    <p><Como fazer</p>
 
-    <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
-    O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+    <p>Em uma panela funda, acrescente o leite condensado, a margarina e o chocolate em pó.
+
+2
+Cozinhe em fogo médio e mexa até que o brigadeiro comece a desgrudar da panela.
+
+3
+Deixe esfriar e faça pequenas bolas com a mão passando a massa no chocolate granulado..</p>
 
